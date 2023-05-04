@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333131117660",
+    "project_id": "signlog-41875",
+    "storage_bucket": "signlog-41875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333131117660:android:2ab8e6def9bc5630faa299",
+        "android_client_info": {
+          "package_name": "com.example.signuploginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333131117660-m55ja31v0ugec810lgftd2pesm0ntmdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKBGqrBzOEgKYhnc6SHIrtV-gtPgnpbpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333131117660-m55ja31v0ugec810lgftd2pesm0ntmdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
